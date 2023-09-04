@@ -3,7 +3,7 @@ eu sou o Professor Douglas Tomé. Sou professor da rede pública e da rede parti
 Leciono para turmas do Ensino Fundamental (anos iniciais e finais) e para o Ensino Médio.
 Sou apaixonado por Matemática e Tecnologias para Aprendizagem.
 
-Hi, I'm Professor Douglas Tomé. I'm a public and private school teacher in the city of São Paulo.
+Hi, I'm Teacher Douglas Tomé. I'm a public and private school teacher in the city of São Paulo.
 Teach elementary school classes (initial and final years) and high school.
 I am passionate about Mathematics and Technologies for Learning.
 
